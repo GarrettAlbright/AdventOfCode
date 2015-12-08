@@ -4,6 +4,10 @@ http://adventofcode.com
 Implemented in Swift in pure .swift files (rather than Xcode projects). Run them
 from the CLI using `swift main.swift`
 
+(Okay, I gave up and implemented Day 04 as an Xcode project because I needed a
+crypto library, and I couldn't figure out how to do that from just the CLI. It
+may not actually be possible yet…?)
+
 Each day has two puzzles but since they're related, I'm (so far, at least)
 solving both puzzles in one Swift file per day.
 
