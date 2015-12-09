@@ -14,4 +14,9 @@ solving both puzzles in one Swift file per day.
 If you're doing these puzzles, note that your input will differ, so you'll want
 to change the input.txt files to whatever your input is.
 
+It should be noted that I'm explicitly not writing clean, efficient,
+well-documented code here; my goal is to merely solve the puzzles and get a bit
+more practice with Swift in the meantime. In other words, please don't judge me
+too harshly by the code quality here - I can do better if I try. :P
+
 [ga]: https://albright.pro/
